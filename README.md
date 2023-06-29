@@ -12,7 +12,7 @@ Collect 3 gems to progress
 
 TAB to pause
 
-Assets:
+## Assets:
 [Sunnyland](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) by Ansimuz
 
 [Cartoon FX Remaster Free](https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565) by Jean Moreno
@@ -21,12 +21,12 @@ Assets:
 
 [Kenney Fonts](https://kenney.nl/assets/kenney-fonts) by Kenney
 
-Music:
+## Music:
 [Rhythmic Game Music Ambience](https://freesound.org/people/PatrickLieberkind/sounds/396024/) by PatrickLieberkind
 
 [Video Game 7](https://freesound.org/people/djgriffin/sounds/172561/) by djgriffin
 
-Sound FX:
+## Sound FX:
 
 [Clink](https://freesound.org/people/TechGkN/sounds/432245/) by TechGkN
 
