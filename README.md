@@ -1,9 +1,13 @@
 # GemDrop
+Play it [here](https://gamedotplay.itch.io/gem-drop)!
+![Gem Drop Main Menu](Media/gif/MainMenu.gif "Gem Drop Main Menu")
+
 Small 2D game made in Unity and published to itch.io.
 
-Play it [here](https://gamedotplay.itch.io/gem-drop)!
-
 ## How to play
+
+![Typical gameplay clip](Media/gif/Gameplay.gif "Get the gem in the box!")
+
 Collect gems in the crates to progress through the dangerous caves!
 
 A/D or Left/Right to move
@@ -38,4 +42,4 @@ TAB to pause
 
 [CollectCoin](https://freesound.org/people/bradwesson/sounds/135936/) by bradwesson
 
-This project initially used Unity's Plastic SCM for version control but then migrated here to GitHub so there is no commit history from development unfortunately.
+This project initially used Unity's Plastic SCM for version control but I then migrated it here to GitHub so there is no commit history from development unfortunately.
