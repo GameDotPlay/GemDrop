@@ -1,7 +1,7 @@
 # GemDrop
 Small 2D game made in Unity and published to itch.io.
 
-PLay it [here](https://gamedotplay.itch.io/gem-drop)!
+Play it [here](https://gamedotplay.itch.io/gem-drop)!
 
 This project initially used Unity's Plastic SCM for version control but then migrated here to GitHub so there is no commit history from development unfortunately.
 
