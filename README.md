@@ -3,8 +3,7 @@ Small 2D game made in Unity and published to itch.io.
 
 Play it [here](https://gamedotplay.itch.io/gem-drop)!
 
-This project initially used Unity's Plastic SCM for version control but then migrated here to GitHub so there is no commit history from development unfortunately.
-
+## How to play
 Collect gems in the crates to progress through the dangerous caves!
 
 A/D or Left/Right to move
@@ -38,3 +37,5 @@ TAB to pause
 [Chimes Sparkle](https://freesound.org/people/lukabea/sounds/660493/) by lukabea
 
 [CollectCoin](https://freesound.org/people/bradwesson/sounds/135936/) by bradwesson
+
+This project initially used Unity's Plastic SCM for version control but then migrated here to GitHub so there is no commit history from development unfortunately.
