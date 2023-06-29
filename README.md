@@ -1,6 +1,6 @@
 # GemDrop
 
-## Play it [here](https://gamedotplay.itch.io/gem-drop)!
+### Play it [here](https://gamedotplay.itch.io/gem-drop)!
 
 ![Gem Drop Main Menu](Media/gif/MainMenu.gif "Gem Drop Main Menu")
 
