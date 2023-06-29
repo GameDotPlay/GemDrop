@@ -6,9 +6,10 @@ Small 2D game made in Unity and published to itch.io.
 
 ![Gem Drop Main Menu](Media/gif/MainMenu.gif "Gem Drop Main Menu")
 
-## How to play
 
 ![Typical gameplay clip](Media/gif/Gameplay.gif "Get the gem in the box!")
+
+## How to play
 
 Collect gems in the crates to progress through the dangerous caves!
 
