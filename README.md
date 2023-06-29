@@ -1,10 +1,10 @@
 # GemDrop
 
+Small 2D game made in Unity and published to itch.io.
+
 ### Play it [here](https://gamedotplay.itch.io/gem-drop)!
 
 ![Gem Drop Main Menu](Media/gif/MainMenu.gif "Gem Drop Main Menu")
-
-Small 2D game made in Unity and published to itch.io.
 
 ## How to play
 
